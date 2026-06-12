@@ -18,14 +18,18 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <table border="0">
   <tr>
-    <td width="50%" align="center">
-      <a href="project-1.md">
-        <img src="https://via.placeholder.com/400x200/20232a/ffffff?text=Systems+Design+Case" width="100%" alt="Project 1 Cover">
-      </a>
-      <h3><a href="project-1.md">????</a></h3>
-      <p><i>System Design & Economy</i></p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-    </td>
+<td width="50%" align="center">
+  <a href="https://docs.google.com/document/d/1OKHMWID0IYYNWNIueJyMAL5e_PMChfXrjhoY0_NnsDM/edit?tab=t.0" target="_blank">
+    <img src="https://via.placeholder.com/400x200/20232a/ffffff?text=Systems+Design+Case" width="100%" alt="Project 1 Cover">
+  </a>
+  <h3>
+    <a href="https://docs.google.com/document/d/1OKHMWID0IYYNWNIueJyMAL5e_PMChfXrjhoY0_NnsDM/edit?tab=t.0" target="_blank">
+      Narrative-driven Spatial Inventory System
+    </a>
+  </h3>
+  <p><i>System Design</i></p>
+  <p>Inventory system where narrative consequences become physical inventory constraints.</p>
+</td>
     <td width="50%" align="center">
       <a href="project-2.md">
         <img src="https://via.placeholder.com/400x200/20232a/ffffff?text=Narrative+Design+Case" width="100%" alt="Project 2 Cover">
