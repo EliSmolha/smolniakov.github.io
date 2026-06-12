@@ -49,7 +49,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
       <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
     </td>
     <td width="50%" align="center">
-      <a href="https://elismolha.itch.io/heartbreak-monsterhearts-ttrpg-hack">
+       <a href="https://elismolha.itch.io/heartbreak-monsterhearts-ttrpg-hack" target="_blank">
         <img src="https://via.placeholder.com/400x200/e0e0e0/808080?text=Work+In+Progress" width="100%" alt="WIP Cover">
       </a>
       <h3><a href="#">TTRPG system hack</a></h3>
