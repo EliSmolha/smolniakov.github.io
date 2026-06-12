@@ -52,7 +52,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
        <a href="https://elismolha.itch.io/heartbreak-monsterhearts-ttrpg-hack" target="_blank">
         <img src="https://via.placeholder.com/400x200/e0e0e0/808080?text=Work+In+Progress" width="100%" alt="WIP Cover">
       </a>
-      <h3><a href="#">TTRPG system hack</a></h3>
+      <h3>
+  <a href="https://elismolha.itch.io/heartbreak-monsterhearts-ttrpg-hack" target="_blank">
+    TTRPG system hack
+  </a>
+</h3>
       <p><i>TTRPG design</i></p>
       <p>Translating TTRPG system onto the new framework.</p>
     </td>
