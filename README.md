@@ -28,7 +28,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
     </a>
   </h3>
   <p><i>System Design</i></p>
-  <p>A spatial inventory system where grid cells become modified as a result of player narrative decisions. </p>
+  <p>A inventory management system where grid cells become modified as a result of player narrative decisions. </p>
 </td>
     <td width="50%" align="center">
       <a href="project-2.md">
