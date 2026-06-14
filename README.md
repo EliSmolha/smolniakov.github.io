@@ -31,12 +31,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   <p>A inventory management system where grid cells become modified as a result of player narrative decisions. </p>
 </td>
     <td width="50%" align="center">
-      <a href="project-2.md">
+      <a href="https://docs.google.com/spreadsheets/d/1vaFzaKfHngqRxZYAIcNci4Kpg2vs5jknWDv_wvmqKZo/edit?gid=0#gid=0">
         <img src="https://via.placeholder.com/400x200/20232a/ffffff?text=Narrative+Design+Case" width="100%" alt="Project 2 Cover">
       </a>
-      <h3><a href="project-2.md">Generic Gacha Balance Table</a></h3>
+      <h3><a href="https://docs.google.com/spreadsheets/d/1vaFzaKfHngqRxZYAIcNci4Kpg2vs5jknWDv_wvmqKZo/edit?gid=0#gid=0">Generic Gacha Balance Table</a></h3>
       <p><i>Game Balance</i></p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+      <p>Game Balance for a generic gacha game, including pity system. </p>
     </td>
   </tr>
   <tr>
