@@ -21,7 +21,6 @@ I also have a strong literary background as a published writer, with works featu
   <tr>
 <td width="50%" align="center">
   <a href="https://docs.google.com/document/d/1OKHMWID0IYYNWNIueJyMAL5e_PMChfXrjhoY0_NnsDM/edit?tab=t.0" target="_blank">
-    <img src="https://i.ibb.co/chsB538H/Screenshot-22.png" width="100%" alt="Project 1 Cover">
   </a>
   <h3>
     <a href="https://docs.google.com/document/d/1OKHMWID0IYYNWNIueJyMAL5e_PMChfXrjhoY0_NnsDM/edit?tab=t.0" target="_blank">
@@ -33,7 +32,6 @@ I also have a strong literary background as a published writer, with works featu
 </td>
     <td width="50%" align="center">
       <a href="https://docs.google.com/spreadsheets/d/1vaFzaKfHngqRxZYAIcNci4Kpg2vs5jknWDv_wvmqKZo/edit?gid=0#gid=0">
-        <img src="https://via.placeholder.com/400x200/20232a/ffffff?text=Narrative+Design+Case" width="100%" alt="Project 2 Cover">
       </a>
       <h3><a href="https://docs.google.com/spreadsheets/d/1vaFzaKfHngqRxZYAIcNci4Kpg2vs5jknWDv_wvmqKZo/edit?gid=0#gid=0">Generic Gacha Balance Table</a></h3>
       <p><i>Game Balance</i></p>
@@ -43,7 +41,6 @@ I also have a strong literary background as a published writer, with works featu
   <tr>
     <td width="50%" align="center">
       <a href="project-3.md">
-        <img src="https://via.placeholder.com/400x200/20232a/ffffff?text=Reverse+Design+Case" width="100%" alt="Project 3 Cover">
       </a>
       <h3><a href="project-3.md">Branching Narrative Demo</a></h3>
       <p><i>Narrative Game Design</i></p>
@@ -51,7 +48,6 @@ I also have a strong literary background as a published writer, with works featu
     </td>
     <td width="50%" align="center">
        <a href="https://elismolha.itch.io/heartbreak-monsterhearts-ttrpg-hack" target="_blank">
-        <img src="https://via.placeholder.com/400x200/e0e0e0/808080?text=Work+In+Progress" width="100%" alt="WIP Cover">
       </a>
       <h3>
   <a href="https://elismolha.itch.io/heartbreak-monsterhearts-ttrpg-hack" target="_blank">
