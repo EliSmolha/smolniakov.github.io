@@ -45,9 +45,9 @@ I also have a strong literary background as a published writer, with works featu
       <a href="project-3.md">
         <img src="https://via.placeholder.com/400x200/20232a/ffffff?text=Reverse+Design+Case" width="100%" alt="Project 3 Cover">
       </a>
-      <h3><a href="project-3.md">PROJECT NAME</a></h3>
+      <h3><a href="project-3.md">Branching Narrative Demo</a></h3>
       <p><i>Narrative Game Design</i></p>
-      <p>A Twine-based narrative game prototype showcasing branching dialogue, player choice, and consequence-driven storytelling. </p>
+      <p>A Twine-based narrative game prototype showcasing branching dialogue, player choice, consequence-driven storytelling and several original features. </p>
     </td>
     <td width="50%" align="center">
        <a href="https://elismolha.itch.io/heartbreak-monsterhearts-ttrpg-hack" target="_blank">
