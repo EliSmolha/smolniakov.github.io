@@ -40,7 +40,7 @@ I also have a strong literary background as a published writer, with works featu
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="project-3.md">
+      <a href="https://github.com/EliSmolha/smolniakov.github.io/blob/main/Photonic%20Angels%20Of%20Crooked%20Liman.html">
       </a>
       <h3><a href="project-3.md">Branching Narrative Demo</a></h3>
       <p><i>Narrative Game Design</i></p>
