@@ -2,13 +2,14 @@
 <h3 align="center">Narrative & Systems Designer</h3>
 
 <p align="center">
-  📍 Da Nang, Vietnam (Remote) | 📧 <a href="mailto:elismolha@gmail.com">elismolha@gmail.com</a> | 🔗 <a href="[ССЫЛКА_НА_ЛИНКЕДИН]">LinkedIn</a>
+  📍 Da Nang, Vietnam (Remote) | 📧 <a href="mailto:elismolha@gmail.com">elismolha@gmail.com</a> | 🔗 <a href="https://linkedin.com/in/ilia-smolniakov-794689232">LinkedIn</a>
 </p>
 
 ---
 
-## 𓇢𓆸 About me
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+## ✎𓂃 About me
+I am a game designer with over 5 years of experience working on commercial mobile and PC titles. 
+I also have a strong literary background as a published writer, with works featured in Druzhba Narodov and ROAR. Additionally, I have experience working with Unity, Twine, Ink and Articy:Draft.
 
 **Skills:** System design, narrative design, UX design, economy balancing, liveOps, Unity, Twine, documentation.
 
@@ -36,7 +37,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
       </a>
       <h3><a href="https://docs.google.com/spreadsheets/d/1vaFzaKfHngqRxZYAIcNci4Kpg2vs5jknWDv_wvmqKZo/edit?gid=0#gid=0">Generic Gacha Balance Table</a></h3>
       <p><i>Game Balance</i></p>
-      <p>Game Balance for a generic gacha game, including pity system. </p>
+      <p>Balance model for a generic character-collection gacha game, including rarity distribution and pity mechanics. </p>
     </td>
   </tr>
   <tr>
@@ -46,7 +47,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
       </a>
       <h3><a href="project-3.md">PROJECT NAME</a></h3>
       <p><i>Narrative Game Design</i></p>
-      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+      <p>A Twine-based narrative game prototype showcasing branching dialogue, player choice, and consequence-driven storytelling. </p>
     </td>
     <td width="50%" align="center">
        <a href="https://elismolha.itch.io/heartbreak-monsterhearts-ttrpg-hack" target="_blank">
@@ -54,11 +55,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
       </a>
       <h3>
   <a href="https://elismolha.itch.io/heartbreak-monsterhearts-ttrpg-hack" target="_blank">
-    TTRPG system hack
+    TTRPG system
   </a>
 </h3>
       <p><i>TTRPG design</i></p>
-      <p>Translating TTRPG system onto the new framework.</p>
+      <p>TTRPG hack for Monsterhearts 2 & TTRPG framework design.</p>
     </td>
   </tr>
 </table>
