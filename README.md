@@ -15,13 +15,13 @@ I also have a strong literary background as a published writer, with works featu
 
 ---
 
-## 𓇢𓆸 Portfolio
+## ✎𓂃 Portfolio
 
 <table border="0">
   <tr>
 <td width="50%" align="center">
   <a href="https://docs.google.com/document/d/1OKHMWID0IYYNWNIueJyMAL5e_PMChfXrjhoY0_NnsDM/edit?tab=t.0" target="_blank">
-    <img src="https://via.placeholder.com/400x200/20232a/ffffff?text=Systems+Design+Case" width="100%" alt="Project 1 Cover">
+    <img src="https://i.ibb.co/chsB538H/Screenshot-22.png" width="100%" alt="Project 1 Cover">
   </a>
   <h3>
     <a href="https://docs.google.com/document/d/1OKHMWID0IYYNWNIueJyMAL5e_PMChfXrjhoY0_NnsDM/edit?tab=t.0" target="_blank">
