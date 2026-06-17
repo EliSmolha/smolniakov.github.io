@@ -40,7 +40,7 @@ I also have a strong literary background as a published writer, with works featu
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://elismolha.github.io/Photonic%20Angels%20Of%20Crooked%20Liman.html" target="_blank">
+      <a href="https://elismolha.github.io/smolniakov.github.io/photonic-angels.html" target="_blank">
       </a>
       <h3><a href="https://elismolha.github.io/smolniakov.github.io/photonic-angels.html">Branching Narrative Demo</a></h3>
       <p><i>Narrative Game Design</i></p>
