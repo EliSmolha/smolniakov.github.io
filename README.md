@@ -42,7 +42,7 @@ I also have a strong literary background as a published writer, with works featu
     <td width="50%" align="center">
       <a href="https://elismolha.github.io/Photonic%20Angels%20Of%20Crooked%20Liman.html" target="_blank">
       </a>
-      <h3><a href="project-3.md">Branching Narrative Demo</a></h3>
+      <h3><a href="https://elismolha.github.io/photonic-angels.html">Branching Narrative Demo</a></h3>
       <p><i>Narrative Game Design</i></p>
       <p>A Twine-based narrative game prototype showcasing branching dialogue, player choice, consequence-driven storytelling and several original features. </p>
     </td>
